@@ -1,0 +1,23 @@
+{
+    "extends": [
+      "airbnb", "airbnb/hooks",
+      "react-app",
+      "plugin:react/recommended"
+    ],
+    "plugins": ["react", "react-hooks"],
+    "globals": {
+      "AudioWorkletGlobalScope": "readonly"
+    },
+    "rules": {
+      // You can add custom rules here
+      "react/prop-types": "off", // Disable prop-types rule, for example
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+      "react/react-in-jsx-scope": "off", // Disable React import in new JSX versions
+      "quotes": ["error", "double"],
+      "comma-dangle": ["error", "never"],
+      "react/jsx-props-no-spreading": "off",
+      "semi": ["error", "always"] // Enforce semicolons
+    }
+  }
+  
+  
