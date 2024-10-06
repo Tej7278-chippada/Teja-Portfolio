@@ -19,7 +19,7 @@ const MobileNav = ({ isOpen, toggleMenu }) => {
         onClick={toggleMenu}
       >
         <div className="mobile-menu-container">
-          <img className="logo" src="./assets/nameLogo.png" alt="name-logo" />
+          <img className="logo" src="./assets/teja-logo.png" alt="name-logo" />
           <ul>
             <li>
               <a className="menu-item" href="#Hero">Home</a>

@@ -1,0 +1,16 @@
+{
+    "extends": [
+      "react-app",
+      "airbnb",
+      "plugin:react/recommended"
+    ],
+    "plugins": ["react", "react-hooks"],
+    "rules": {
+      // You can add custom rules here
+      "react/prop-types": "off", // Disable prop-types rule, for example
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+      "react/react-in-jsx-scope": "off" // Disable React import in new JSX versions
+    }
+  }
+  
+  
