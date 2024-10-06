@@ -15,21 +15,21 @@ const Hero = () => {
       <div className="hero-img">
         <div>
             <div className="tech-icon">
-                <img src="../logo192.png"/>
+                <img src="../logo192.png" alt=""/>
             </div>
-            <img src="../assets/teja-pic-2.jpg" style={{borderRadius: "10px"}}/>
+            <img src="../assets/teja-pic-2.jpg" alt="" style={{borderRadius: "10px"}}/>
         </div>
      
 
       <div>
         <div className="tech-icon">
-          <img src="../assets/html-5.png"/>
+          <img src="../assets/html-5.png" alt=""/>
         </div>
         <div className="tech-icon">
-          <img src="../assets/css-3.png" />
+          <img src="../assets/css-3.png" alt=""/>
         </div>
         <div className="tech-icon">
-          <img src="../assets/js.png"/>
+          <img src="../assets/js.png" alt=""/>
         </div>
       </div>
       </div>

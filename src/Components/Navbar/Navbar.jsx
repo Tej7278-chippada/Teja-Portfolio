@@ -54,9 +54,9 @@ const Navbar = () => {
 
           <button className="menu-btn" onClick={toggleMenu}>
             {openMenu ? (
-              <img src="./assets/close.png" />
+              <img src="./assets/close.png" alt=""/>
             ) : (
-              <img src="./assets/menu.png" />
+              <img src="./assets/menu.png" alt=""/>
             )}
           </button>
         </div>
