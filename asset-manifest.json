@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Tej7278-chippada/Teja-Portfoli/static/css/main.f0a81d2e.css",
+    "main.js": "/Tej7278-chippada/Teja-Portfoli/static/js/main.4ad78ebe.js",
+    "static/js/453.00a54276.chunk.js": "/Tej7278-chippada/Teja-Portfoli/static/js/453.00a54276.chunk.js",
+    "static/media/slick.svg": "/Tej7278-chippada/Teja-Portfoli/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Tej7278-chippada/Teja-Portfoli/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Tej7278-chippada/Teja-Portfoli/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Tej7278-chippada/Teja-Portfoli/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Tej7278-chippada/Teja-Portfoli/index.html",
+    "main.f0a81d2e.css.map": "/Tej7278-chippada/Teja-Portfoli/static/css/main.f0a81d2e.css.map",
+    "main.4ad78ebe.js.map": "/Tej7278-chippada/Teja-Portfoli/static/js/main.4ad78ebe.js.map",
+    "453.00a54276.chunk.js.map": "/Tej7278-chippada/Teja-Portfoli/static/js/453.00a54276.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a81d2e.css",
+    "static/js/main.4ad78ebe.js"
+  ]
+}
